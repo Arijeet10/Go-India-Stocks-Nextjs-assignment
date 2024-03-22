@@ -5,7 +5,6 @@ import Sidebar from "../_components/sidebar";
 const Discussion = () => {
   return (
     <section className="flex">
-        <Sidebar />
         <div className="md:w-[70%] w-full">
             <div className="text-3xl text-red-600 font-bold p-2 bg-slate-200 invisible md:visible lg:visible">
                 DISCUSSION FORUM
