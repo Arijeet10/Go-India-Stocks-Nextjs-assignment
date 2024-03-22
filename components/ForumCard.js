@@ -4,7 +4,7 @@ import { apiData } from "@/repository/dummy-data";
 const ForumCard=()=>{
 
     return(
-            <div className="w-full flex justify-center max-w-full border rounded-r-lg rounded-b-lg p-2 mb-10 mt-6 shadow-lg">
+            <div className="w-full flex justify-center max-w-full border rounded-r-lg rounded-b-lg p-2 mb-10 md:mt-6 shadow-lg">
                 <div className="w-[10%] flex justify-center items-start">
                     <Image 
                         src="/man.png"
