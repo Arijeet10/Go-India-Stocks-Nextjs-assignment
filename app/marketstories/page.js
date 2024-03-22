@@ -4,7 +4,6 @@ import Sidebar from "../_components/sidebar"
 const MarketStories = () => {
   return (
     <div className="flex">
-      <Sidebar />
         <div className="">
             <span className="text-l text-red-600 bg-slate-200 font-bold p-2 invisible md:visible">
                 MARKET STORIES
